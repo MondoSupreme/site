@@ -1,9 +1,8 @@
-
 export function About() {
     return(
     <html>
     <body>
-        it works!
+        CUM
     </body>
     </html>
     )
